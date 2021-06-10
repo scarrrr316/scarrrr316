@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-~ Hi, I’m @scarrrr, a secondary school student from Hong Kong
+I’m @scarrrr, a secondary school student from Hong Kong
 
 - 🌱 I’m currently learning Python / Dart / Flutter
 
