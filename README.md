@@ -21,6 +21,6 @@ I’m @scarrrr, a secondary school student from Hong Kong
 ### Data :
 [![My Github Data](https://github-readme-stats.vercel.app/api?username=scarrrr316&theme=dark)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarrrr316&theme=dark)]()
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scarrrr316&theme=dark)]()
 
 
