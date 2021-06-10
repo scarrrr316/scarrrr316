@@ -14,19 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Github Data](https://github-readme-stats.vercel.app/api?username=scarrrr316)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarrrr316)]()
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+~ Hi, I’m @scarrrr, a secondary school student from Hong Kong
 
 - 🌱 I’m currently learning Python / Dart / Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### Data :
+[![My Github Data](https://github-readme-stats.vercel.app/api?username=scarrrr316&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarrrr316&theme=dark)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)]()
+
+
