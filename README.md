@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I’m @scarrrr, a secondary school student from Hong Kong
 
-- 🌱 I’m currently learning Python / Dart / Flutter
+- 🌱 I’m currently learning Python / Dart / Flutter / HTML&CSS
 
 ### Data :
 [![My Github Data](https://github-readme-stats.vercel.app/api?username=scarrrr316&theme=dark)]()
