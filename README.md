@@ -61,3 +61,11 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
 </p>
+
+<hr>
+
+<p align="center">
+<!--   <img alt="visitor counter" src="https://visitor-badge.glitch.me/badge?page_id=scarrrr316"/> -->
+  <img alt="visitor counter" src="https://api.visitorbadge.io/api/VisitorHit?user=scarrrr316&repo=scarrrr316&countColor=%FFFFFF"/>
+
+</p>
