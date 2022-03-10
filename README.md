@@ -1,16 +1,13 @@
 <!-- **scarrrr316/scarrrr316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi there I'm Scarrrr</h1>
-<p align="center"> A secondary school student from Hong Kong 🤪</p>
-
+<h3 align="center"> A secondary school student from Hong Kong 🤪</p>
+<p class="space"></p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+<p class="space"></p>
 <p align="center">
   <img alt="github status" src="https://github-readme-stats.vercel.app/api?username=scarrrr316&show_icons=true&theme=react"/>
-</p>
-
-<p align="center">
   <img alt="github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarrrr316&show_icons=true&theme=react"/>
 </p>
 
