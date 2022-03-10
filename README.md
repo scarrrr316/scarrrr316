@@ -5,6 +5,8 @@
 
 <p align="center">
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -80,7 +82,7 @@ Python                   1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/scarrrr316/scarrrr316/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/03/2022 03:10:50 UTC
+ Last Updated on 10/03/2022 03:12:42 UTC
 <!--END_SECTION:waka-->
 </p>
 
