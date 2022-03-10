@@ -7,11 +7,11 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 16 Contributions in the Year 2022
+> 🏆 17 Contributions in the Year 2022
  > 
 > 📦 192 Bytes Used in GitHub's Storage 
  > 
@@ -82,7 +82,7 @@ Python                   1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/scarrrr316/scarrrr316/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/03/2022 04:22:48 UTC
+ Last Updated on 10/03/2022 04:24:46 UTC
 <!--END_SECTION:waka-->
 </p>
 
