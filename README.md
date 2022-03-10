@@ -4,6 +4,10 @@
 <p align="center"> A secondary school student from Hong Kong 🤪</p>
 
 <p align="center">
+  <img alt="wakatime code time" src="https://github.com/scarrrr316/scarrrr316/blob/main/images/stat.svg"/>
+</p>
+
+<p align="center">
   <img alt="github status" src="https://github-readme-stats.vercel.app/api?username=scarrrr316&show_icons=true&theme=react"/>
 </p>
 
