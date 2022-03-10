@@ -3,88 +3,8 @@
 <h1 align="center">Hi there I'm Scarrrr</h1>
 <p align="center"> A secondary school student from Hong Kong 🤪</p>
 
-<p align="center">
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2024%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 17 Contributions in the Year 2022
- > 
-> 📦 239 Bytes Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    34 commits     █████████░░░░░░░░░░░░░░░░   39.08% 
-🌆 Daytime    26 commits     ███████░░░░░░░░░░░░░░░░░░   29.89% 
-🌃 Evening    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
-🌙 Night      19 commits     █████░░░░░░░░░░░░░░░░░░░░   21.84%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
-Wednesday    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.39% 
-Thursday     16 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.39% 
-Friday       27 commits     ███████░░░░░░░░░░░░░░░░░░   31.03% 
-Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
-Sunday       22 commits     ██████░░░░░░░░░░░░░░░░░░░   25.29%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-HTML                     5 hrs 59 mins       ███████████░░░░░░░░░░░░░░   44.2% 
-Python                   3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72% 
-CSS                      2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
-Makefile                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
-TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
-
-🔥 Editors: 
-VS Code                  13 hrs 32 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Unknown Project          12 hrs 5 mins       ██████████████████████░░░   89.28% 
-valorant-rpc             1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.72%
-
-💻 Operating System: 
-Windows                  13 hrs 32 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.0% 
-Python                   1 repo              ████████████░░░░░░░░░░░░░   50.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/scarrrr316/scarrrr316/main/charts/bar_graph.png) 
-
-
- Last Updated on 10/03/2022 06:32:31 UTC
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</p>
 
 <p align="center">
   <img alt="github status" src="https://github-readme-stats.vercel.app/api?username=scarrrr316&show_icons=true&theme=react"/>
