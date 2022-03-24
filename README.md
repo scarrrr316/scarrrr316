@@ -4,19 +4,19 @@
 <h3 align="center"> A secondary school student from Hong Kong 🤪</p>
 <p class="space"></p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 22 Contributions in the Year 2022
+> 🏆 23 Contributions in the Year 2022
  > 
 > 📦 609 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -61,7 +61,7 @@ VS Code                  14 hrs 16 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 24/03/2022 17:26:11 UTC
+ Last Updated on 24/03/2022 18:18:41 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
