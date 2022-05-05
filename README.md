@@ -12,7 +12,7 @@
 
 > 🏆 25 Contributions in the Year 2022
  > 
-> 📦 838 Bytes Used in GitHub's Storage 
+> 📦 799 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,7 +57,7 @@ VS Code                  1 hr 5 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 05/05/2022 00:18:09 UTC
+ Last Updated on 05/05/2022 00:20:43 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
