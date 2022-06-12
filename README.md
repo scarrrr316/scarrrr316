@@ -8,7 +8,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279%20lines%20of%20code-blue)
 
-**📊 Global GitHub data** 
+**📊 My GitHub data** 
 
 ```text
 🏆 25 contributions in 2022
@@ -56,7 +56,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2022 07:56:34 UTC
+ Last Updated on 12/06/2022 07:58:43 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
