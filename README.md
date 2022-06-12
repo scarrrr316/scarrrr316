@@ -8,19 +8,18 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 25 Contributions in the Year 2022
+```text
+🏆 25 contributions in 2022
+
+📦 6.7 kB used in GitHub's storage 
+
+📜 28 Public Repositories 
+
+🔑 3 Private Repositories  
  > 
-> 📦 6.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    34 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.2% 
@@ -29,7 +28,7 @@
 🌙 Night      19 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.35%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm most productive on Friday** 
 
 ```text
 Monday       2 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.25% 
@@ -43,7 +42,7 @@ Sunday       21 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
@@ -57,7 +56,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2022 07:35:25 UTC
+ Last Updated on 12/06/2022 07:37:45 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
