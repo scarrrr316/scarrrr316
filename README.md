@@ -4,7 +4,7 @@
 <h3 align="center"> A secondary school student from Hong Kong 🤪</p>
 <p class="space"></p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279%20lines%20of%20code-blue)
 
@@ -18,7 +18,7 @@
  > 
 > 📜 33 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -61,7 +61,7 @@ VS Code                  2 hrs 14 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 18/09/2022 15:14:04 UTC
+ Last Updated on 18/09/2022 15:17:31 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
