@@ -3,6 +3,7 @@
 <h1 align="center">Hi there I'm Scarrrr</h1>
 <h3 align="center"> A secondary school student from Hong Kong 🤪</p>
 <p class="space"></p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2040%20mins-blue)
 
