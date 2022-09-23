@@ -18,12 +18,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROFILE_VIEWS: "True"
           SHOW_LOC_CHART: "False"
           SYMBOL_VERSION: 2
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
-          BLOCKS: "░▒▓█"
-          TIME_RANGE: "all_time"
-          SHOW_TIME: "True"
-          SHOW_TOTAL: "True"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
