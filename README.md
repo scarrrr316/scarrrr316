@@ -11,7 +11,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 64 Contributions in the Year 2022
+> 🏆 65 Contributions in the Year 2022
  > 
 > 📦 418.8 kB Used in GitHub's Storage 
  > 
@@ -59,10 +59,13 @@ Markdown                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🔥 Editors: 
 VS Code                  9 hrs 44 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
+💻 Operating System: 
+Windows                  9 hrs 44 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+
 ```
 
 
- Last Updated on 23/09/2022 17:24:09 UTC
+ Last Updated on 23/09/2022 17:26:57 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
