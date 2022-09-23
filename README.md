@@ -4,7 +4,7 @@
 <h3 align="center"> A secondary school student from Hong Kong 🤪</p>
 <p class="space"></p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Thousand%20lines%20of%20code-blue)
 
@@ -61,7 +61,7 @@ VS Code                  9 hrs 25 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 23/09/2022 13:31:43 UTC
+ Last Updated on 23/09/2022 13:35:30 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
