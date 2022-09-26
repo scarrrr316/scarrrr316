@@ -9,7 +9,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-674%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,7 +67,7 @@ Windows                  3 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 26/09/2022 06:11:39 UTC
+ Last Updated on 26/09/2022 06:14:33 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
