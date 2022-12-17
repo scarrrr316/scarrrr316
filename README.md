@@ -5,7 +5,7 @@
 <p class="space"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -67,7 +67,7 @@ Windows                  8 hrs 22 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 17/12/2022 15:21:40 UTC
+ Last Updated on 17/12/2022 15:23:51 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
