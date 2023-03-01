@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20thousand%20lines%20of%20code-blue)
 
@@ -60,7 +60,7 @@ Windows                  13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 01/03/2023 15:59:42 UTC
+ Last Updated on 01/03/2023 16:00:20 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
