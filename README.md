@@ -5,7 +5,7 @@
 <p class="space"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,7 +60,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/04/2023 17:47:39 UTC
+ Last Updated on 14/04/2023 17:48:57 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
