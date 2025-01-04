@@ -1,7 +1,6 @@
 <!-- **scarrrr316/scarrrr316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hi there I'm Scarrrr</h1>
-<h3 align="center"> A secondary school student from Hong Kong 🤪</p>
+<h1 align="center">Hi there !</h1>
 <p class="space"></p>
 
 <!--START_SECTION:waka-->
