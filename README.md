@@ -4,8 +4,6 @@
 <p class="space"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20thousand%20lines%20of%20code-blue)
@@ -23,7 +21,7 @@
 > 🔑 7 Private Repositories 
  > 
 
- Last Updated on 06/01/2025 16:22:57 UTC
+ Last Updated on 06/01/2025 16:24:42 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
