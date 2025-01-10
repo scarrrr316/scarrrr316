@@ -4,8 +4,6 @@
 <p class="space"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.9%20thousand%20lines%20of%20code-blue)
@@ -59,7 +57,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/01/2025 16:03:17 UTC
+ Last Updated on 10/01/2025 16:05:00 UTC
 <!--END_SECTION:waka-->
 <p class="space"></p>
 <p align="center">
