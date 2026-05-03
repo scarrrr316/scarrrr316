@@ -3,8 +3,9 @@ name: WakaTime status update
 on:
   schedule:
     - cron: "0 */1 * * *"
-  push:
-    branches: [main]
+  # push:
+  #   branches: [main]
+  # it casues infinite loop
   workflow_dispatch:
 
 jobs:
